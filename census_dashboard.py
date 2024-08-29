@@ -294,6 +294,7 @@ hide_st_style = """
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             header {visibility: hidden;}
+            .viewerBadge_container__r5tak {visibility: hidden;}
             a {background-color: #ffffff;}
             </style>
             """
