@@ -33,8 +33,8 @@ st.title("Historic Census of Ireland (1841-1881)")
 st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1mFERBLOC8aWDcM4OzkUo8omL5pJyTukPA&s", width=150)
 # st.link_button("Homepage", "http://127.0.0.1:5001/census", type="secondary")
 st.markdown('''
-<a href="https://vrti-graph.adaptcentre.ie/census" class="btn btn-outline-primary" target="_parent">Return Home</a>
-<a href="https://vrti-graph.adaptcentre.ie/census-map-explorer?view=townland" class="btn btn-outline-primary ms-2" target="_parent">Search Map</a>
+<a href="https://vrti-graph.adaptcentre.ie/census" class="btn btn-outline-primary" target="">Return Home</a>
+<a href="https://vrti-graph.adaptcentre.ie/census-map-explorer?view=townland" class="btn btn-outline-primary ms-2" target="">Search Map</a>
 ''',unsafe_allow_html=True)
 
 st.write("#### Select a filter below to search the census")
