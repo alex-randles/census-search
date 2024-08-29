@@ -34,7 +34,7 @@ st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1mFERBLOC8aWDc
 # st.link_button("Homepage", "http://127.0.0.1:5001/census", type="secondary")
 st.markdown('''
 <a href="https://vrti-graph.adaptcentre.ie/census" class="btn btn-outline-primary" target="">Return Home</a>
-<a href="https://vrti-graph.adaptcentre.ie/census-map-explorer?view=townland" class="btn btn-outline-primary ms-2" target="">Search Map</a>
+<a href="https://vrti-graph.adaptcentre.ie/census-map-explorer?view=townland" class="btn btn-outline-primary ms-2" target="">Census Map Explorer</a>
 ''',unsafe_allow_html=True)
 
 st.write("#### Select a filter below to search the census")
