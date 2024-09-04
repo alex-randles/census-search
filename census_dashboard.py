@@ -33,7 +33,7 @@ def get_data_from_excel():
 df = get_data_from_excel()
 
 # st.markdown("## Overview of Census")
-st.title("Historic Census of Ireland (1841-1881)")
+st.title("Historic Census of Ireland (1841-1881) Database")
 st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk1mFERBLOC8aWDcM4OzkUo8omL5pJyTukPA&s", width=150)
 # st.link_button("Homepage", "http://127.0.0.1:5001/census", type="secondary")
 st.markdown('''
